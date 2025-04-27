@@ -1,0 +1,49 @@
+@media (max-width: 768px) {
+    .header {
+        margin: 20px;
+      }
+    
+      .header img {
+        width: 120px; /* deixa a logo menor */
+      }
+    
+    
+    .container {
+      flex-direction: column;  /* Só no mobile! */
+      text-align: center;
+      padding: 20px;
+    }
+  
+    .mockups {
+      margin-bottom: 30px;
+    }
+  
+    .text {
+      margin: 0;
+    }
+
+    .title {
+        font-size: 24px;
+        font-weight: 500;
+    }
+
+    .subtitle {
+        font-size: 16px;
+        font-weight: 400;
+    }
+  
+    .btn-register {
+      margin: 20px auto 0;
+    }
+  
+    .social {
+      position: static;
+      margin-top: 50px;
+      justify-content: center;
+    }
+
+    .social a{
+        width: 30px;
+        height: 30px; 
+      }
+  }
