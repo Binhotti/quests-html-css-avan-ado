@@ -1,6 +1,6 @@
 ## Huddle Landing Page 
 
-Desenvolvendo uma Quest de Lading Page do Dev Quest
+Desenvolvendo uma Quest de Landing Page do Dev Quest
 
 HTML e CSS avançado
 
